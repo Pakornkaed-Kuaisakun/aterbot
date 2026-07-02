@@ -2,7 +2,8 @@
 	"client": {
 		"host": "peakkittichock-nUyF.aternos.me",
 		"port": "28182",
-		"username": "AFK-Aternos-Bot-V1"
+		"username": "AFK-Aternos-Bot-V1",
+		"version": "1.26.1",
 	},
 	
 	"! DO NOT EDIT BELOW !": "ONLY IF YOU KNOW WHAT YOU ARE DOING",
